@@ -1,4 +1,5 @@
 // EJEMPLO JGO 2025 JUnio
+//huevos pal jaci
 
 /* Sample Suitelet to Mass Delete Transactions */
 function suitelet(request, response) {
