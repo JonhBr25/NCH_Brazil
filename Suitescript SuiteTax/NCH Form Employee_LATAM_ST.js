@@ -1,3 +1,5 @@
+//Suitescript 1.0 JGO
+
 function EmployeeClientSaveRecord()
 {
     var valemplo = 'Sales Rep Agente';
