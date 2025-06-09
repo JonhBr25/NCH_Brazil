@@ -1,3 +1,5 @@
+// EJEMPLO JGO 2025
+
 /* Sample Suitelet to Mass Delete Transactions */
 function suitelet(request, response) {
 
